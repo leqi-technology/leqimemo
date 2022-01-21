@@ -1,4 +1,4 @@
-# leqimemo
+# leqiMemo
 
 ## Project setup
 ```
