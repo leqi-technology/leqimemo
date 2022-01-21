@@ -1,2 +1,2 @@
 # leqimemo
-A memo based vuejs, electron, elements plus, and typescript.
+A memo desktop application based on vuejs, electron, elements plus, and typescript.
