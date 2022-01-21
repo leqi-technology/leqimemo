@@ -17,6 +17,8 @@ yarn electron:serve
 ### Compiles and minifies for production
 ```
 npm run electron:build
+or
+yarn electron:build
 ```
 
 ### Lints and fixes files
