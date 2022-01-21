@@ -1,2 +1,2 @@
 # leqimemo
-A memo based vuejs, electron plus, elements, and typescript.
+A memo based vuejs, electron, elements plus, and typescript.
