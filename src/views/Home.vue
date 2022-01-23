@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <el-button @click="handleClick">Click me</el-button>
   </div>
 </template>
 
